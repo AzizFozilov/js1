@@ -1,0 +1,16 @@
+var user_name = prompt('ismingizni kiriting');
+console.log('mani ismim ' + user_name);
+var user_age = prompt('yoshingizni kiriting');
+console.log('mani yoshim ' + user_age + 'da');
+var number = prompt('6' + '+' +'3');
+console.log('misol 1: 6+3=9 ' + 'sizning javobingiz ' + number);
+var number_2 = prompt('2' + '*' +'3');
+console.log('misol 2: 2*3=6 ' + 'sizning javobingiz ' + number_2);
+var number_3 = prompt('9' + '/' +'3');
+console.log('misol 3: 9/3=3 ' + 'sizning javobingiz ' + number_3);
+var number_4 = prompt('76' + '%' +'5');
+console.log('misol 4: 76%5=1 ' + 'sizning javobingiz ' + number_4);
+var number_5 = prompt('12' + '-' +'8');
+console.log('misol 5: 12-8=4 ' + 'sizning javobingiz ' + number_5);
+var number_6 = prompt('80' + '-' +'80' + '*' + '3');
+console.log('misol 6: 80-80*3=160 ' + 'sizning javobingiz ' + number_6);
